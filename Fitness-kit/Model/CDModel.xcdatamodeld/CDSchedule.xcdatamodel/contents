@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19D76" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CDSchedule" representedClassName="CDSchedule" syncable="YES" codeGenerationType="class">
+        <attribute name="appointmentId" attributeType="String" defaultValueString=""/>
+        <attribute name="descr" attributeType="String" defaultValueString=""/>
+        <attribute name="endTime" attributeType="String" defaultValueString=""/>
+        <attribute name="name" attributeType="String" defaultValueString=""/>
+        <attribute name="place" attributeType="String" defaultValueString=""/>
+        <attribute name="startTime" attributeType="String" defaultValueString=""/>
+        <attribute name="teacher" attributeType="String" defaultValueString=""/>
+        <attribute name="weekDay" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="CDSchedule" positionX="-63" positionY="-18" width="128" height="163"/>
+    </elements>
+</model>
